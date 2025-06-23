@@ -1,2 +1,3 @@
-# app
-Run the wombat locally
+# Wise Wombat Desktop App
+
+Run the wombat locally!
